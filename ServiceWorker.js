@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-blackjack-1.0";
 const contentToCache = [
-    "Build/2.loader.js",
-    "Build/2.framework.js",
-    "Build/2.data",
-    "Build/2.wasm",
+    "Build/3.loader.js",
+    "Build/3.framework.js",
+    "Build/3.data",
+    "Build/3.wasm",
     "TemplateData/style.css"
 
 ];
